@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an IT professional, student, and eternal tinkerer. 
+### I'm an IT professional (wearing a million hats), student, and eternal tinkerer.
 
 <!--
 **m83/m83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
